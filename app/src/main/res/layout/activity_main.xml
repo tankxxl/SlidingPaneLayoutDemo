@@ -7,14 +7,14 @@
 
     <fragment
         android:id="@+id/leftfragment"
-        android:name="com.umpay.slidingpanelayoutdemo.BookMarkerFragment"
+        android:name="com.rgz.slidingpanelayoutdemo.BookMarkerFragment"
         android:layout_width="100dp"
         android:layout_height="match_parent"
         android:layout_gravity="left" />
 
     <fragment
         android:id="@+id/rightfragment"
-        android:name="com.umpay.slidingpanelayoutdemo.ShowFragment"
+        android:name="com.rgz.slidingpanelayoutdemo.ShowFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="right"

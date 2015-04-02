@@ -1,4 +1,4 @@
-package com.umpay.slidingpanelayoutdemo;
+package com.rgz.slidingpanelayoutdemo;
 
 import android.app.Fragment;
 import android.support.v4.widget.SlidingPaneLayout;

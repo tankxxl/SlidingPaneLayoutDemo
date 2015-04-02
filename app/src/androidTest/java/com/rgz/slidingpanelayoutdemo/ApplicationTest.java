@@ -1,4 +1,4 @@
-package com.umpay.slidingpanelayoutdemo;
+package com.rgz.slidingpanelayoutdemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
